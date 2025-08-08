@@ -64,7 +64,7 @@
 
 ---
 
-## 📂 **Phase 4 – Projects (9 hrs)**
+## 📂 **Phase 4 – Projects (6 hrs)**
 
 ### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
 
