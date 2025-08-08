@@ -31,7 +31,7 @@
 
 5️⃣ **Class Concepts** – Attributes, methods, simple class example
 
-6️⃣ **Mini Project** – Simple chatbot with functions & classes
+6️⃣ **Mini Project** – Simple chatbot with functions.
 
 ---
 
