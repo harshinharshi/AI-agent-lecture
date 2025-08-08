@@ -91,10 +91,15 @@
 ## 🎯 **Learning Outcomes**
 
 By the end of this program, students will:
+
 ✅ Understand Python basics
+
 ✅ Know how LLMs work
+
 ✅ Build AI agents in LangGraph
+
 ✅ Complete multiple agent projects
+
 ✅ Deploy a full-scale **WhatsApp AI Assistant**
 
 ---
