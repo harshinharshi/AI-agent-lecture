@@ -100,6 +100,6 @@ By the end of this program, students will:
 
 ✅ Complete multiple agent projects
 
-✅ Deploy a full-scale **WhatsApp AI Assistant**
+✅ Deploy a full-scale **Telegram AI Assistant**
 
 ---
