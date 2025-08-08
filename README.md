@@ -1,6 +1,6 @@
 # 🚀 **30-Hour AI Agent Study Plan**
 
-*For 12th Standard Students with Zero Programming Experience*
+*For beginner with Zero Programming Experience*
 
 > **Goal:** Take students from no coding background to building & deploying AI agents using **LangGraph**, with hands-on projects.
 
