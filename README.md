@@ -43,7 +43,7 @@
 * ⚙ **How They Work** – Tokens, training, inference
 * 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA + live demo
 * 🌐 Popular LLM platforms
-- Hugging face and groq
+* 🎉 Hugging face and groq
 ---
 
 ## 🛠 **Phase 3 – LangGraph AI Agents (12 hrs)**
