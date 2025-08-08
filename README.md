@@ -12,8 +12,8 @@
 | -------------------------- | ------ | -------------------------------------- |
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 10 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 15 hrs | Mini-projects + Major Telegram Agent   |
+| 🛠 **LangGraph AI Agents** | 12 hrs | Create intelligent, interactive agents |
+| 📂 **Projects**            | 6 hrs | Mini-projects + Major Telegram Agent   |
 
 ---
 
