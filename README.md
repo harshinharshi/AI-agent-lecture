@@ -22,10 +22,15 @@
 🎯 **Goal:** Learn just enough Python to implement AI agents.
 
 1️⃣ **Intro & Setup** – Install Python, VS Code, run your first program
+
 2️⃣ **Basic Blocks** – Variables, data types, operators, input/output
+
 3️⃣ **Logic Flow** – if-else, loops, pattern printing
+
 4️⃣ **Functions** – Parameters, returns, mini calculator project
+
 5️⃣ **Class Concepts** – Attributes, methods, simple class example
+
 6️⃣ **Mini Project** – Simple chatbot with functions & classes
 
 ---
