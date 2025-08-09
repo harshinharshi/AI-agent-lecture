@@ -42,8 +42,7 @@
 * 🕰 **History & Evolution** – From rule-based to GPT
 * ⚙ **How They Work** – Tokens, training, inference
 * 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA + live demo
-* 🌐 Popular LLM platforms
-* 🎉 Hugging face and groq
+* 🌐 Popular LLM platforms Hugging face and groq
 ---
 
 ## 🛠 **Phase 3 – LangGraph AI Agents (12 hrs)**
