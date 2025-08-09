@@ -40,8 +40,8 @@
 🎯 **Goal:** Understand LLMs before building agents.
 
 * 🕰 **History & Evolution** – From rule-based to GPT
-* ⚙ **How They Work** – Tokens, training, inference
-* 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA + live demo
+* ⚙ **How They Work LLM works**
+* 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA 
 * 🌐 Popular LLM platforms Langchain, Hugging face and groq
 ---
 
