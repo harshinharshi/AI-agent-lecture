@@ -12,8 +12,8 @@
 | -------------------------- | ------ | -------------------------------------- |
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 10 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 15 hrs | Mini-projects + Major Telegram Agent   |
+| 🛠 **LangGraph AI Agents** | 12 hrs | Create intelligent, interactive agents |
+| 📂 **Projects**            | 6 hrs | Mini-projects + Major Telegram Agent   |
 
 ---
 
@@ -31,7 +31,7 @@
 
 5️⃣ **Class Concepts** – Attributes, methods, simple class example
 
-6️⃣ **Mini Project** – Simple chatbot with functions & classes
+6️⃣ **Mini Project** – Simple chatbot with functions.
 
 ---
 
@@ -40,10 +40,9 @@
 🎯 **Goal:** Understand LLMs before building agents.
 
 * 🕰 **History & Evolution** – From rule-based to GPT
-* ⚙ **How They Work** – Tokens, training, inference
-* 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA + live demo
-* 🌐 Popular LLM platforms
-
+* ⚙ **How They Work LLM works**
+* 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA 
+* 🌐 Popular LLM platforms Langchain, Hugging face and groq
 ---
 
 ## 🛠 **Phase 3 – LangGraph AI Agents (12 hrs)**
@@ -64,7 +63,7 @@
 
 ---
 
-## 📂 **Phase 4 – Projects (6 hrs)**
+## 📂 **Phase 4 – Projects (11 hrs)**
 
 ### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
 
@@ -87,14 +86,21 @@
 * 🎉 Final Showcase & Review
 
 ---
-
+### Optional
+Additional projects and topics will be introduced based on the latest research papers or emerging technologies in the AI agent field during the learning process. These are optional and subject to time availability and the course completion date. Interview preparation and resume discussions may also be included.
+---
 ## 🎯 **Learning Outcomes**
 
 By the end of this program, students will:
+
 ✅ Understand Python basics
+
 ✅ Know how LLMs work
+
 ✅ Build AI agents in LangGraph
+
 ✅ Complete multiple agent projects
-✅ Deploy a full-scale **WhatsApp AI Assistant**
+
+✅ Deploy a full-scale **Telegram AI Assistant**
 
 ---
