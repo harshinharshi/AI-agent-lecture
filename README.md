@@ -21,7 +21,7 @@
 
 🎯 **Goal:** Learn just enough Python to implement AI agents.
 
-1️⃣ **Intro & Setup** – Install Python, VS Code, run your first program
+1️⃣ **Intro & Setup** – Install Python, VS Code, run your first program, networking.
 
 2️⃣ **Basic Blocks** – Variables, data types, operators, input/output
 
