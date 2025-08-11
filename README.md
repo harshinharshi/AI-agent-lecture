@@ -98,7 +98,7 @@
 
 ---
 ### Optional
-Additional projects and topics will be introduced based on the latest research papers or emerging technologies in the AI agent field during the learning process. These are optional and subject to time availability and the course completion date. Interview preparation and resume discussions may also be included.
+*Additional projects and topics will be introduced based on the latest research papers or emerging technologies in the AI agent field during the learning process. These are optional and subject to time availability and the course completion date. Interview preparation and resume discussions may also be included.*
 ---
 ## 🎯 **Learning Outcomes**
 
