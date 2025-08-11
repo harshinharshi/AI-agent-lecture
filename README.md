@@ -11,8 +11,8 @@
 | Phase                      | Hours  | Focus                                  |
 | -------------------------- | ------ | -------------------------------------- |
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
-| 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 14 hrs | Create intelligent, interactive agents |
+| 🤖 **LLM Basics**          | 3 hrs  | Understand Large Language Models       |
+| 🛠 **LangGraph AI Agents** | 15 hrs | Create intelligent, interactive agents |
 | 📂 **Projects**            | 16 hrs | Mini-projects + Major Projects   |
 
 ---
@@ -35,33 +35,31 @@
 
 ---
 
-## 🤖 **Phase 2 – LLM Basics (2 hrs)**
+## 🤖 **Phase 2 – LLM Basics (3 hrs)**
 
 🎯 **Goal:** Understand LLMs before building agents.
 
 * 🕰 **History & Evolution** – From rule-based to GPT
 * ⚙ **How They Work LLM works**
 * 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA 
-* 🌐 Popular LLM platforms Langchain, Hugging face and groq
+* 🌐 Popular platforms Langchain, Hugging face and groq
+* 🐦 LangChain: Chaining & ChatTemplates
 ---
 
-## 🛠 **Phase 3 – LangGraph AI Agents (14 hrs)**
+## 🛠 **Phase 3 – LangGraph AI Agents (15 hrs)**
 
 🎯 **Goal:** Build AI agents with LangGraph.
 
 1. 🌐 Introduction to LangGraph
-2. 🧠 State & Memory – Short-term vs. long-term memory
+2. 🧠 State & Memory – Short-term vs. long-term memory + Project
 3. 🔍 LangSmith Basics – Debugging & monitoring
 4. 🖌 Interupt - Human-in-the-loop
 5. 🏗 Building Your Assistant – Core structure
-6. 📦 Long-Term Memory Implementation
+6. 📦 Long-Term Memory Implementation + Project
 7. ☁ Deployment Options – Local, cloud, integrations
-8. 💻 Build a Minimal LangGraph Agent
-9. 🔗 Add Memory & Tool Use
-10. 🧪 Testing & Debugging
-11. 🛠 Project : Tool Use Pattern – Integrating APIs/tools
-12. Model Context Protocol (MCP)
-13. Context engineering
+8. Model Context Protocol (MCP)
+9. Context engineering
+10. Project : Agentic RAG
 
 ---
 
