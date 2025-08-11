@@ -84,7 +84,9 @@
 * 🚀 Deployment & Hosting
 * 🎉 Final Showcase & Review
 
-🌐 **Major Project – (Optional Project)** **Agentic RAG System (8 hrs)**
+  
+### 🌟 **(Optional Project) Major Project – Agentic RAG System (8 hrs)**
+
 *Optional projects depend on time availability and completion date; they are not mandatory in the syllabus.*
 
 * ⚡ FastAPI Basics
