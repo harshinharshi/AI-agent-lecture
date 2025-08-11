@@ -12,7 +12,7 @@
 | -------------------------- | ------ | -------------------------------------- |
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 12 hrs | Create intelligent, interactive agents |
+| 🛠 **LangGraph AI Agents** | 11 hrs | Create intelligent, interactive agents |
 | 📂 **Projects**            | 6 hrs | Mini-projects + Major Telegram Agent   |
 
 ---
@@ -45,7 +45,7 @@
 * 🌐 Popular LLM platforms Langchain, Hugging face and groq
 ---
 
-## 🛠 **Phase 3 – LangGraph AI Agents (12 hrs)**
+## 🛠 **Phase 3 – LangGraph AI Agents (14 hrs)**
 
 🎯 **Goal:** Build AI agents with LangGraph.
 
@@ -60,22 +60,23 @@
 9. 🔗 Add Memory & Tool Use
 10. 🧪 Testing & Debugging
 11. 🛠 Project : Tool Use Pattern – Integrating APIs/tools
+12. Model Context Protocol (MCP)
+13. Context engineering
 
 ---
 
-## 📂 **Phase 4 – Projects (11 hrs)**
+## 📂 **Phase 4 – Projects (8 hrs)**
 
 ### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
 
 1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs
-2. 📋 **Planning Pattern** – Multi-step execution
-3. 🤝 **MultiAgent Pattern** – Agents collaborating
+2. 🤝 **Multi-agent supervisor** – Agents collaborating and different Multi-agent architectures
 
 ---
 
-### 🌟 **Major Project – Pop, the Telegram Agent (7 hrs)**
+### 🌟 **Major Project – Telegram Agent (4 hrs)**
 
-💬 **A multimodal agent that chats, sees, and responds like a real person.**
+💬 **A multimodal agent that chats, sees, and responds like a real person. (4 hrs)**
 
 * 🏗 Overview & Architecture
 * 📲 Telegram Integration
@@ -84,6 +85,18 @@
 * 🧪 Testing & Edge Case Handling
 * 🚀 Deployment & Hosting
 * 🎉 Final Showcase & Review
+
+🌐 **(Optional Project)** **Agentic RAG System (8 hrs)**
+*Optional projects depend on time availability and completion date; they are not mandatory in the syllabus.*
+
+* ⚡ FastAPI Basics
+* 🧠 Groq Integration
+* 🗄 MongoDB
+* 🔌 WebSocket
+* 🌐 HTTP Service
+* 📚 RAG Pipeline
+
+
 
 ---
 ### Optional
