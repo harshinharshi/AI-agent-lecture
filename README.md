@@ -1,4 +1,4 @@
-# 🚀 **30-Hour AI Agent Study Plan**
+# 🚀 **30+-Hour AI Agent Study Plan**
 
 *For beginner with Zero Programming Experience*
 
@@ -12,8 +12,8 @@
 | -------------------------- | ------ | -------------------------------------- |
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 11 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 6 hrs | Mini-projects + Major Telegram Agent   |
+| 🛠 **LangGraph AI Agents** | 14 hrs | Create intelligent, interactive agents |
+| 📂 **Projects**            | 16 hrs | Mini-projects + Major Telegram Agent   |
 
 ---
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 **Phase 4 – Projects (8 hrs)**
+## 📂 **Phase 4 – Projects (16 hrs)**
 
 ### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
 
@@ -76,7 +76,7 @@
 
 ### 🌟 **Major Project – Telegram Agent (4 hrs)**
 
-💬 **A multimodal agent that chats, sees, and responds like a real person. (4 hrs)**
+💬 **A multimodal agent that chats, sees, and responds like a real person.**
 
 * 🏗 Overview & Architecture
 * 📲 Telegram Integration
@@ -86,7 +86,7 @@
 * 🚀 Deployment & Hosting
 * 🎉 Final Showcase & Review
 
-🌐 **(Optional Project)** **Agentic RAG System (8 hrs)**
+🌐 **Major Project – (Optional Project)** **Agentic RAG System (8 hrs)**
 *Optional projects depend on time availability and completion date; they are not mandatory in the syllabus.*
 
 * ⚡ FastAPI Basics
