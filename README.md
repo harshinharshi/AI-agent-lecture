@@ -13,7 +13,7 @@
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 3 hrs  | Understand Large Language Models       |
 | 🛠 **LangGraph AI Agents** | 15 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 18 hrs | Mini-projects + Major Projects   |
+| 📂 **Projects**            | 9 hrs | Major Projects   |
 
 ---
 
@@ -57,46 +57,22 @@
 5. 🏗 Building Your Assistant – Core structure
 6. 📦 Long-Term Memory Implementation + Project
 7. ☁ Deployment Options – Local, cloud, integrations
-8. Model Context Protocol (MCP) (optional)
-9. Context engineering (optional)
-10. Project : Agentic RAG (optional)
+8. Model Context Protocol (MCP)
+9. Context engineering
+10. Project : Agentic RAG
+11. Project : SQL agent
+12. webhooks (Optional)
+13. Streaming API (Optional)
 
 ---
 
-## 📂 **Phase 4 – Projects (18 hrs)**
+## 📂 **Phase 4 – Projects (9 hrs)**
 
-### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
+### 🧩 **Major Project Series – Core Agentic Patterns (9 hrs hrs)**
 
 1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs
 2. 🤝 **Multi-agent supervisor** – Agents collaborating and different Multi-agent architectures
-
----
-
-### 🌟 **Major Project – Telegram Agent (6 hrs)**
-
-💬 **A multimodal agent that chats, sees, and responds like a real person.**
-
-* 🏗 Overview & Architecture
-* 📲 Telegram Integration
-* 🖼 + 🎤 Multimodal: Text, Images, Voice
-* 🧠 Memory & Custom Responses
-* 🧪 Testing & Edge Case Handling
-* 🚀 Deployment & Hosting
-* 🎉 Final Showcase & Review
-
-  
-### 🌟 **(Optional Project) Major Project – Agentic RAG System (8 hrs)**
-
-*Optional projects depend on time availability and completion date; they are not mandatory in the syllabus.*
-
-* ⚡ FastAPI Basics
-* 🧠 Groq Integration
-* 🗄 MongoDB
-* 🔌 WebSocket
-* 🌐 HTTP Service
-* 📚 RAG Pipeline
-
-
+3. 🌐 Customer Support Bot (Optional)
 
 ---
 ### Optional
@@ -114,6 +90,6 @@ By the end of this program, students will:
 
 ✅ Complete multiple agent projects
 
-✅ Deploy a full-scale **Telegram AI Assistant**
-
 ---
+
+
