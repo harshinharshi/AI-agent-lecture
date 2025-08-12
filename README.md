@@ -13,7 +13,7 @@
 | 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 3 hrs  | Understand Large Language Models       |
 | 🛠 **LangGraph AI Agents** | 15 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 16 hrs | Mini-projects + Major Projects   |
+| 📂 **Projects**            | 18 hrs | Mini-projects + Major Projects   |
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 📂 **Phase 4 – Projects (16 hrs)**
+## 📂 **Phase 4 – Projects (18 hrs)**
 
 ### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
 
@@ -72,7 +72,7 @@
 
 ---
 
-### 🌟 **Major Project – Telegram Agent (4 hrs)**
+### 🌟 **Major Project – Telegram Agent (6 hrs)**
 
 💬 **A multimodal agent that chats, sees, and responds like a real person.**
 
