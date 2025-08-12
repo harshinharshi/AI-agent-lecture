@@ -1,4 +1,4 @@
-# 🚀 **30+-Hour AI Agent Study Plan**
+# 🚀 **30+ Hour AI Agent Learning Plan**
 
 *For beginner with Zero Programming Experience*
 
