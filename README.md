@@ -57,9 +57,9 @@
 5. 🏗 Building Your Assistant – Core structure
 6. 📦 Long-Term Memory Implementation + Project
 7. ☁ Deployment Options – Local, cloud, integrations
-8. Model Context Protocol (MCP)
-9. Context engineering
-10. Project : Agentic RAG
+8. Model Context Protocol (MCP) (optional)
+9. Context engineering (optional)
+10. Project : Agentic RAG (optional)
 
 ---
 
