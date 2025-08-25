@@ -70,7 +70,7 @@
 4. 🖌 Interupt - Human-in-the-loop
 5. 🏗 Building Your Assistant – Core structure
 6. 📦 Long-Term Memory Implementation + Project
-7. ☁ Deployment Options – Local, cloud, integrations
+7. ☁ Deployment Options – Local, cloud, integrations (Optional)
 8. Model Context Protocol (MCP)
 9. Context engineering
 10. Project : Agentic RAG
