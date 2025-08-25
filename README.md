@@ -64,20 +64,19 @@
 
 🎯 **Goal:** Build AI agents with LangGraph.
 
-1. 🌐 Introduction to LangGraph
-2. 🧠 State & Memory – Short-term vs. long-term memory + Project
-3. 🔍 LangSmith Basics – Debugging & monitoring
-4. 🖌 Interupt - Human-in-the-loop
-5. 🏗 Building Your Assistant – Core structure
-6. 📦 Long-Term Memory Implementation + Project
-7. ☁ Deployment Options – Local, cloud, integrations (Optional)
-8. Model Context Protocol (MCP)
-9. Context engineering
-10. Project : Agentic RAG
-11. Project : SQL agent (Optional)
-12. webhooks (Optional)
-13. Streaming API (Optional)
-
+1. 🌐 **Introduction to LangGraph**
+2. 🧠 **State & Memory** – Short-term vs. long-term memory + Project
+3. 🔍 **LangSmith Basics** – Debugging & monitoring
+4. 🖌 **Interrupt** – Human-in-the-loop
+5. 🏗 **Building Your Assistant** – Core structure
+6. 📦 **Long-Term Memory Implementation** + Project
+7. ☁ **Deployment Options** – Local, cloud, integrations (Optional)
+8. 🔗 **Model Context Protocol (MCP)**
+9. 🎛 **Context Engineering**
+10. 📚 **Project : Agentic RAG**
+11. 🗄 **Project : SQL Agent** (Optional)
+12. 🔔 **Webhooks** (Optional)
+13. 📡 **Streaming API** (Optional)
 ---
 
 ## 📂 **Phase 4 – Projects (9 hrs)**
