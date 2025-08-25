@@ -10,14 +10,14 @@
 
 | Phase                      | Hours  | Focus                                  |
 | -------------------------- | ------ | -------------------------------------- |
-| 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
+| 🐍 **Python Foundations**  | 6 hrs  | Build core programming skills          |
 | 🤖 **LLM Basics**          | 3 hrs  | Understand Large Language Models       |
 | 🛠 **LangGraph AI Agents** | 15 hrs | Create intelligent, interactive agents |
 | 📂 **Projects**            | 9 hrs | Major Projects   |
 
 ---
 
-## 🐍 **Phase 1 – Python Foundations (3 hrs)**
+## 🐍 **Phase 1 – Python Foundations (6 hrs)**
 
 🎯 **Goal:** Learn just enough Python to implement AI agents.
 
@@ -32,6 +32,18 @@
 5️⃣ **Class Concepts** – Attributes, methods, simple class example
 
 6️⃣ **Mini Project** – Basic message response project using functions and predefined keywords.
+
+7️⃣ Collections Basics – Lists, tuples, sets, dictionaries (create, update, iterate).
+
+8️⃣ String Handling – Slicing, formatting (f-strings), common methods.
+
+9️⃣ Error Handling – try-except, raising errors, simple debugging.
+
+🔟 Modules & Imports – Using built-in modules (math, random, datetime).
+
+1️⃣1️⃣ File Handling – Read/write text files, simple log storage.
+
+1️⃣2️⃣ Mini Project – To-do list or contact book using file storage.
 
 ---
 
@@ -60,7 +72,7 @@
 8. Model Context Protocol (MCP)
 9. Context engineering
 10. Project : Agentic RAG
-11. Project : SQL agent
+11. Project : SQL agent (Optional)
 12. webhooks (Optional)
 13. Streaming API (Optional)
 
@@ -70,9 +82,10 @@
 
 ### 🧩 **Major Project Series – Core Agentic Patterns (9 hrs hrs)**
 
-1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs
+1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs (Optional)
 2. 🤝 **Multi-agent supervisor** – Agents collaborating and different Multi-agent architectures
 3. 🌐 Customer Support Bot (Optional)
+4. 🔬 Deep Research Agent (Optional, with MCP integration)
 
 ---
 ### Optional
