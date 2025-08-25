@@ -60,6 +60,8 @@
 
 ## 🛠 **Phase 3 – LangGraph AI Agents (15 hrs)**
 
+👉 **For better understanding, build an agent from scratch using this repo:** [AI\_agents\_from\_scratch](https://github.com/harshinharshi/AI_agents_from_scratch) (Optional)
+
 🎯 **Goal:** Build AI agents with LangGraph.
 
 1. 🌐 Introduction to LangGraph
