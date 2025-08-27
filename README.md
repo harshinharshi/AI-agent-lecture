@@ -1,4 +1,4 @@
-# 🚀 **30-Hour AI Agent Study Plan**
+# 🚀 **30+ Hour AI Agent Learning Plan**
 
 *For beginner with Zero Programming Experience*
 
@@ -10,14 +10,14 @@
 
 | Phase                      | Hours  | Focus                                  |
 | -------------------------- | ------ | -------------------------------------- |
-| 🐍 **Python Foundations**  | 3 hrs  | Build core programming skills          |
-| 🤖 **LLM Basics**          | 2 hrs  | Understand Large Language Models       |
-| 🛠 **LangGraph AI Agents** | 12 hrs | Create intelligent, interactive agents |
-| 📂 **Projects**            | 6 hrs | Mini-projects + Major Telegram Agent   |
+| 🐍 **Python Foundations**  | 6 hrs  | Build core programming skills          |
+| 🤖 **LLM Basics**          | 3 hrs  | Understand Large Language Models       |
+| 🛠 **LangGraph AI Agents** | 15 hrs | Create intelligent, interactive agents |
+| 📂 **Projects**            | 9 hrs | Major Projects   |
 
 ---
 
-## 🐍 **Phase 1 – Python Foundations (3 hrs)**
+## 🐍 **Phase 1 – Python Foundations (6 hrs)**
 
 🎯 **Goal:** Learn just enough Python to implement AI agents.
 
@@ -31,63 +31,66 @@
 
 5️⃣ **Class Concepts** – Attributes, methods, simple class example
 
-6️⃣ **Mini Project** – Simple chatbot with functions.
+6️⃣ **Mini Project** – Basic message response project using functions and predefined keywords.
+
+7️⃣ Collections Basics – Lists, tuples, sets, dictionaries (create, update, iterate).
+
+8️⃣ String Handling – Slicing, formatting (f-strings), common methods.
+
+9️⃣ Error Handling – try-except, raising errors, simple debugging.
+
+🔟 Modules & Imports – Using built-in modules (math, random, datetime).
+
+1️⃣1️⃣ File Handling – Read/write text files, simple log storage.
+
+1️⃣2️⃣ Mini Project – To-do list or contact book using file storage.
 
 ---
 
-## 🤖 **Phase 2 – LLM Basics (2 hrs)**
+## 🤖 **Phase 2 – LLM Basics (3 hrs)**
 
 🎯 **Goal:** Understand LLMs before building agents.
 
 * 🕰 **History & Evolution** – From rule-based to GPT
 * ⚙ **How They Work LLM works**
 * 🌍 **Popular LLMs** – GPT, Claude, Gemini, LLaMA 
-* 🌐 Popular LLM platforms Langchain, Hugging face and groq
+* 🌐 Popular platforms Langchain, Hugging face and groq
+* 🐦 LangChain: Chaining & ChatTemplates
 ---
 
-## 🛠 **Phase 3 – LangGraph AI Agents (12 hrs)**
+## 🛠 **Phase 3 – LangGraph AI Agents (15 hrs)**
+
+👉 **For better understanding, build an agent from scratch using this repo:** [AI\_agents\_from\_scratch](https://github.com/harshinharshi/AI_agents_from_scratch) (Optional)
 
 🎯 **Goal:** Build AI agents with LangGraph.
 
-1. 🌐 Introduction to LangGraph
-2. 🧠 State & Memory – Short-term vs. long-term memory
-3. 🔍 LangSmith Basics – Debugging & monitoring
-4. 🖌 Interupt - Human-in-the-loop
-5. 🏗 Building Your Assistant – Core structure
-6. 📦 Long-Term Memory Implementation
-7. ☁ Deployment Options – Local, cloud, integrations
-8. 💻 Build a Minimal LangGraph Agent
-9. 🔗 Add Memory & Tool Use
-10. 🧪 Testing & Debugging
-11. 🛠 Project : Tool Use Pattern – Integrating APIs/tools
-
+1. 🌐 **Introduction to LangGraph**
+2. 🧠 **State & Memory** – Short-term vs. long-term memory + Project
+3. 🔍 **LangSmith Basics** – Debugging & monitoring
+4. 🖌 **Interrupt** – Human-in-the-loop
+5. 🏗 **Building Your Assistant** – Core structure
+6. 📦 **Long-Term Memory Implementation** + Project
+7. ☁ **Deployment Options** – Local, cloud, integrations (Optional)
+8. 🔗 **Model Context Protocol (MCP)**
+9. 🎛 **Context Engineering**
+10. 📚 **Project : Agentic RAG**
+11. 🗄 **Project : SQL Agent** (Optional)
+12. 🔔 **Webhooks** (Optional)
+13. 📡 **Streaming API** (Optional)
 ---
 
-## 📂 **Phase 4 – Projects (11 hrs)**
+## 📂 **Phase 4 – Projects (9 hrs)**
 
-### 🧩 **Mini-Project Series – Core Agentic Patterns (4 hrs)**
+### 🧩 **Major Project Series – Core Agentic Patterns (9 hrs hrs)**
 
-1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs
-2. 📋 **Planning Pattern** – Multi-step execution
-3. 🤝 **MultiAgent Pattern** – Agents collaborating
-
----
-
-### 🌟 **Major Project – Pop, the Telegram Agent (7 hrs)**
-
-💬 **A multimodal agent that chats, sees, and responds like a real person.**
-
-* 🏗 Overview & Architecture
-* 📲 Telegram Integration
-* 🖼 + 🎤 Multimodal: Text, Images, Voice
-* 🧠 Memory & Custom Responses
-* 🧪 Testing & Edge Case Handling
-* 🚀 Deployment & Hosting
-* 🎉 Final Showcase & Review
+1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs (Optional)
+2. 🤝 **Multi-agent supervisor** – Agents collaborating and different Multi-agent architectures
+3. 🌐 Customer Support Bot (Optional)
+4. 🔬 Deep Research Agent (Optional, with MCP integration)
 
 ---
 ### Optional
-Additional projects and topics will be introduced based on the latest research papers or emerging technologies in the AI agent field during the learning process. These are optional and subject to time availability and the course completion date. Interview preparation and resume discussions may also be included.
+*Additional projects and topics will be introduced based on the latest research papers or emerging technologies in the AI agent field during the learning process. These are optional and subject to time availability and the course completion date. Interview preparation and resume discussions may also be included.*
 ---
 ## 🎯 **Learning Outcomes**
 
@@ -101,6 +104,6 @@ By the end of this program, students will:
 
 ✅ Complete multiple agent projects
 
-✅ Deploy a full-scale **Telegram AI Assistant**
-
 ---
+
+
