@@ -133,8 +133,7 @@ langsmith
 langchain-community
 langchain-core
 notebook
-tavily-python
 wikipedia
 trustcall
 langgraph-cli[inmem]
-langchain-groq
+langchain-groq==0.3.7
