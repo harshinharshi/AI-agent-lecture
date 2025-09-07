@@ -4,8 +4,17 @@ from langgraph.graph import MessagesState
 from langgraph.graph import StateGraph, START, END
 
 # We will use this model for both the conversation and the summarization
-from langchain_openai import ChatOpenAI
-model = ChatOpenAI(model="gpt-4o", temperature=0) 
+from langchain_groq import ChatGroq
+from dotenv import load_dotenv
+
+load_dotenv()
+
+model = ChatGroq(
+    model="gemma2-9b-it",
+    temperature=0.0,
+    max_retries=2,
+    # other params...
+)
 
 # State class to store messages and summary
 class State(MessagesState):
