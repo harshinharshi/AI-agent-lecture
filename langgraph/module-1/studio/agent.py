@@ -1,6 +1,5 @@
 from langchain_core.messages import SystemMessage
-from langchain_openai import ChatOpenAI
-
+from langchain_groq import ChatGroq
 from langgraph.graph import START, StateGraph, MessagesState
 from langgraph.prebuilt import tools_condition, ToolNode
 
@@ -34,7 +33,14 @@ def divide(a: int, b: int) -> float:
 tools = [add, multiply, divide]
 
 # Define LLM with bound tools
-llm = ChatOpenAI(model="gpt-4o")
+llm = ChatGroq(
+    model="openai/gpt-oss-120b",
+    temperature=0,
+    max_tokens=None,
+    reasoning_format="parsed",
+    timeout=None,
+    max_retries=2,
+)
 llm_with_tools = llm.bind_tools(tools)
 
 # System message

@@ -10,11 +10,11 @@ class State(TypedDict):
 # Conditional edge
 def decide_mood(state) -> Literal["node_2", "node_3"]:
     
-    # Often, we will use state to decide on the next node to visit
-    user_input = state['graph_state'] 
-    
+    # decision = int(input('enter a number between 1 and 20: '))
+    decision = random.randint(1, 20)
+
     # Here, let's just do a 50 / 50 split between nodes 2, 3
-    if random.random() < 0.5:
+    if decision > 10:
 
         # 50% of the time, we return Node 2
         return "node_2"
@@ -46,4 +46,4 @@ builder.add_edge("node_2", END)
 builder.add_edge("node_3", END)
 
 # Compile graph
-graph = builder.compile()
+graph_1 = builder.compile()
