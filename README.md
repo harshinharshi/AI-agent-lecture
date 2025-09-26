@@ -73,20 +73,21 @@
 7. ☁ **Deployment Options** – Local, cloud, integrations (Optional)
 8. 🔗 **Model Context Protocol (MCP)**
 9. 🎛 **Context Engineering**
-10. 📚 **Project : Agentic RAG**
-11. 🗄 **Project : SQL Agent** (Optional)
-12. 🔔 **Webhooks** (Optional)
-13. 📡 **Streaming API** (Optional)
+10. 📖 **RAG – Vector data embedding & semantic search**
+11. 📚 **Project : Agentic RAG**
+12. 🗄 **Project : SQL Agent** (Optional)
+13. 🔔 **Webhooks** (Optional)
+14. 📡 **Streaming API** (Optional)
 ---
 
 ## 📂 **Phase 4 – Projects (9 hrs)**
 
 ### 🧩 **Major Project Series – Core Agentic Patterns (9 hrs hrs)**
 
-1. 🔄 **Reflection Pattern** – Agent evaluates its own outputs (Optional)
-2. 🤝 **Multi-agent supervisor** – Agents collaborating and different Multi-agent architectures
-3. 🌐 Customer Support Bot (Optional)
-4. 🔬 Deep Research Agent (Optional, with MCP integration)
+1. 🛠 **Prototype Project** – How ChatGPT Deep Search / Manus AI works
+2. 🔄 **Reflection Pattern** – Agent evaluates its own outputs (Optional)
+3. 🤝 **Multi-Agent Supervisor** – Collaboration & architectures (Optional)
+4. 🌐 **Customer Support Bot** (Optional)
 
 ---
 ### Optional
