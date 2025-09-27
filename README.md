@@ -133,6 +133,7 @@
 3️⃣ Recognize and process images, even sharing its own activity snapshots.  
 4️⃣ Use LangGraph for structured conversations and manage memory with Qdrant/SQLite.  
 5️⃣ Leverage advanced AI like Vision-Language Models (VLMs) and Diffusion Models for creative outputs.  
+the ai will have the features of deep agent where it breakdown the task and do it one by one, similar to some latest ai deep reasearcher agents available
 
 ---
 
