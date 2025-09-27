@@ -361,20 +361,14 @@ Develop a comprehensive Telegram bot that showcases all learned skills: it's an 
 - ✅ Text processing and generation
 - ✅ Voice message transcription (STT)
 - ✅ Natural voice responses (TTS)
-- ✅ Image recognition and analysis
-- ✅ Document processing and summarization
 
 ##### **Advanced Agent Features:**
 - ✅ Tool selection and execution
-- ✅ Web search and real-time information
 - ✅ Task planning and execution monitoring
-- ✅ Error recovery and alternative approaches
-- ✅ Progress reporting and status updates
 
 ##### **Production Features:**
 - ✅ Containerized deployment with Docker
 - ✅ Database integration for user data
-- ✅ Rate limiting and security measures
 - ✅ Comprehensive logging and monitoring
 - ✅ Scalable architecture design
 
@@ -438,11 +432,11 @@ Upon successful completion of this comprehensive program, students will have:
 ```bash
 # Clone the learning repository
 git clone <repository-url>
-cd ai-agent-learning-plan
+cd AI-agent-lecture
 
 # Set up Python environment
-python -m venv ai-agent-env
-source ai-agent-env/bin/activate  # On Windows: ai-agent-env\Scripts\activate
+python -m venv AI-agent-lecture  # On Windows
+source AI-agent-lecture/bin/activate  # On Windows: AI-agent-lecture\Scripts\activate
 
 # Install required packages
 pip install -r requirements.txt
