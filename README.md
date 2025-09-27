@@ -127,13 +127,12 @@
 ## 📂 **Phase 5 – Major Projects (9 hrs)**
 
 ### 🧩 **Core Agentic Patterns Implementation**
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🛠️ **Prototype Project** | How ChatGPT Deep Search / Manus AI works | Core |
-| 🔄 **Reflection Pattern** | Agent evaluates its own outputs | *Optional* |
-| 🤝 **Multi-Agent Supervisor** | Collaboration & architectures | *Optional* |
-| 🌐 **Customer Support Bot** | Real-world application | *Optional* |
+🤖 This smart Telegram bot can:  
+1️⃣ Chat with you by sending & receiving messages, including text, voice, and images.  
+2️⃣ Understand your speech (STT) and reply with natural voice notes (TTS).  
+3️⃣ Recognize and process images, even sharing its own activity snapshots.  
+4️⃣ Use LangGraph for structured conversations and manage memory with Qdrant/SQLite.  
+5️⃣ Leverage advanced AI like Vision-Language Models (VLMs) and Diffusion Models for creative outputs.  
 
 ---
 
