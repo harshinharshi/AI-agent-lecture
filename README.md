@@ -1,7 +1,7 @@
 # 🚀 AI Agent Development Curriculum
 ## From Zero to Production-Ready AI Agents
 
-**Total Duration:** 36 Hours | **Level:** Beginner to Advanced | **Prerequisites:** None
+**Total Duration:** 33 Hours | **Level:** Beginner to Advanced | **Prerequisites:** None
 
 ---
 
