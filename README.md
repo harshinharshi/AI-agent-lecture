@@ -658,20 +658,17 @@ Build a production-ready intelligent Telegram bot that integrates all learned co
 
 ### System Requirements:
 - Computer with 8GB+ RAM
-- Windows 10+, macOS 10.15+, or Linux
+- Windows 10+(recommended), macOS 10.15+, or Linux
 - Stable internet connection
-- 10GB free disk space
 
 ### Software Installation:
 1. **Python 3.10+**
 2. **VS Code** with extensions (Python, Docker)
 3. **Docker Desktop**
 4. **Git** for version control
-5. **Postman** or Thunder Client for API testing
 
 ### Account Setup:
 - GitHub account
-- OpenAI API key (or alternative LLM provider)
 - Docker Hub account
 - LangSmith account (for monitoring)
 - Telegram account (for capstone)
